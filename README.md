@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Mean Stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Try signing up my news letter for that:- https://boiling-woodland-38246.herokuapp.com/
+- 📫 How to reach me: Try signing up my newsletter for that:- https://boiling-woodland-38246.herokuapp.com/
 
 <!---
 hemanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
